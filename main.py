@@ -1,12 +1,3 @@
-a = 7 #создание переменной
-b = 3
-c = a + b
-print(c)
-
-if a > b:
-    print("a больше b")
-elif a < b:
-    print("a меньше b")
-else:
-    print("a равно b")
+for i in range(8):
+    print("слово")
     
